@@ -26,6 +26,7 @@
     margin-right: auto;
     font-size:30px;
 }
+
 .header__icon--active > p {
     display:inline-flex !important;
 }
@@ -56,6 +57,7 @@
     text-align:center;
 
 }
+
 .header > img {
     object-fit: contain;
     height: 80px;

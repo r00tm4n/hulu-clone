@@ -4,7 +4,7 @@ import VideoCard from "./VideoCard.js";
 import axios from './axios';
 import FlipMove from 'react-flip-move';
 
-function Results( {selectedOption }) {
+function Results( { selectedOption }) {
 
     const[ movies, setMovies ] = useState([]);
 
